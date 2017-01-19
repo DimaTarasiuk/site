@@ -12,15 +12,16 @@
 	
 	<body>
 		<div class="container">
+			<div class="row">
+				<div class="col-sm-4">col-sm-4</div>
+				<div class="col-sm-4">col-sm-4</div>
+				<div class="col-sm-4">col-sm-4</div>
+			</div>	
 			<h1>Bootsrap Page</h1>
 			<p>some text</p>
 		</div>
 		
-		<div class="row">
-			<div class="col-sm-4">col-sm-4</div>
-			<div class="col-sm-4">col-sm-4</div>
-			<div class="col-sm-4">col-sm-4</div>
-		</div>	
+		
 		
 		<div class="row">
 			<div class="col-sm-4"><h1>next col-sm-4</h1></div>
